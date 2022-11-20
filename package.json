@@ -50,9 +50,9 @@
     "react-virtualized": "^9.13.0"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0",
-    "react-dom": "^15.3.0 || ^16.0.0",
-    "react-sortable-tree": "^1.4.0"
+    "react": "^15.3.0 || ^18.2.0",
+    "react-dom": "^15.3.0 || ^18.2.0",
+    "@nosferatu500/react-sortable-tree": "^4.2.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.6",
